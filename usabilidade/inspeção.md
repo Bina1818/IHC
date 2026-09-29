@@ -38,7 +38,7 @@ yyyyyyyyy
 ### tabela
 
 |xxx|yyy|zzz
-|---|---|---|
+|:----|:----:|----:|
 |X|y|z|
 
 

@@ -6,6 +6,6 @@
 
 xxxxxxxxx
 
-<hl>
+<hr>
 
 yyyyyyyyy

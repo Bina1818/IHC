@@ -12,4 +12,4 @@ yyyyyyyyy
 
 ### negrito e itálico 
 
-*itálico* _italico_ **negrito** __negrito__ 
+*itálico* _italico_ **negrito** __negrito__ ***junto*** 

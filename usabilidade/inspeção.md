@@ -47,3 +47,8 @@ yyyyyyyyy
 > citei
 
 
+### bloco de código 
+
+```
+print("eae")
+
